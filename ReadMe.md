@@ -30,9 +30,9 @@ jUnit must to be used for test.
 To avoid any mail problems, please do an "mvn clean" before zipping and emailing your project.
 
 <h1>How to build</h1>
-just ao a. mvn clean install
+Just do a mvn clean install
 
-<h2>Running the demo</h2>
+<h1>Running the demo</h1>
 Execute by calling java target/formatter.jar with arguments as:
 TextFormatDemo -a [left | right | center | justify] -l [hard | wrap] -w output-width
 
